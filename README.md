@@ -1,7 +1,7 @@
 <h1 align="left">Oi 👋, Eu sou Geovani Pereira Dias</h1>
 <h3 align="left">Apaixonado por Análise de Sistemas, Ciências e Análise de Dados</h3>
 
-- 🌱 Atualmente eu estou aprendendo **Machine Learning com Python, Django e Analise de Dados para o mercado financeiro.**
+- 🌱 Atualmente eu estou me aperfeiçoando **Machine Learning com Python, Django e Análise de Dados para o mercado financeiro.**
 
 - 👯 Também estou colaborando com limpeza e tratamento de dados para a empresa **Alta Performance - Consultoria Empresaria Financeira**
 
